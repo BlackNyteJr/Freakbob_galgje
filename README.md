@@ -16,5 +16,15 @@
 
 * Ik raad R 
 
-* ik raad E
+* Ik raad E
+
+* Ik raad A
+
+* Ik raad K
+
+* Ik raad B
+
+* Ik raad O
+
+
 >>>>>>> 92d9b1a501a38603f2c66970be60385bf1c4f373
