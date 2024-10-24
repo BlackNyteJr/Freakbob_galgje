@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|F| | | | | | | |
+|F| | || | | | |
 
 |-|-|-|-|-|-|-|b|
 
@@ -12,3 +12,5 @@
 ![gallow](./images/2.png)
 
 ## Beurten
+
+* Ik raad R 
