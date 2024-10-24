@@ -15,6 +15,6 @@
 <<<<<<< HEAD
 
 * Ik raad R 
-=======
-* ik raad R
+
+* ik raad E
 >>>>>>> 92d9b1a501a38603f2c66970be60385bf1c4f373
