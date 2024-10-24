@@ -26,7 +26,5 @@
 
 * Ik raad O
 
-* Ik raad I
+* Ik raad B
 
-
->>>>>>> 92d9b1a501a38603f2c66970be60385bf1c4f373
